@@ -93,7 +93,7 @@ BOOTH で配布しています: https://tapioka-1145.booth.pm/items/8522589
 
 ## 関連ツール
 
-- [フラクタルガチャ](https://github.com/tapioka5/Fractal-Gacha) — 同じパラメータをランダム生成で決めるツール
+- [フラクタルガチャ](https://github.com/tapioka5/Fractal-Gacha-) — 同じパラメータをランダム生成で決めるツール
 
 ## ライセンス
 
