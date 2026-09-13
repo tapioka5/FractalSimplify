@@ -91,7 +91,7 @@ slider.onChanging = function () {
 
 ## 配布先
 
-BOOTH で配布しています: 【URL】
+BOOTH で配布しています:https://tapioka-1145.booth.pm/items/8522589
 
 ## ライセンス
 
